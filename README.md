@@ -49,13 +49,6 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=sau04076&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
 ## 📈 Contribution Graph
 <div align="center">
   
@@ -64,8 +57,8 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 </div>
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sau04076)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sau04076@naver.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mun-su-kim-6aa247320/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sau04076@naver.com)
 
 ---
 <div align="center">
