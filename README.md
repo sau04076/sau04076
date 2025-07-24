@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 - **Software Developer** at ECOCNA (2021.09 ~ 2022.11)
 
 ## 📝 Publications
-Handling Ambiguous Queries Through Query Decomposition in a RAG Setting - CKAIA 2024
+- **Handling Ambiguous Queries Through Query Decomposition in a RAG Setting** - CKAIA 2024
 
 ## 🔬 Research Interests
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
@@ -49,12 +49,31 @@ Handling Ambiguous Queries Through Query Decomposition in a RAG Setting - CKAIA 
 
 </div>
 
+## 🏆 GitHub Trophies
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=sau04076&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+## 📈 Contribution Graph
+<div align="center">
+  
+![sau04076's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sau04076&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+
+</div>
+
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sau04076)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sau04076@naver.com)
 
+---
 <div align="center">
-"I aspire to become an AI engineer who can make a beneficial impact across diverse fields, leveraging technology to create meaningful solutions for society." 🚀
-"다양한 분야에 이로운 영향을 줄 수 있는 AI 엔지니어가 되고 싶습니다."
-(https://komarev.com/ghpvc/?username=sau04076&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+*"I aspire to become an AI engineer who can make a beneficial impact across diverse fields, leveraging technology to create meaningful solutions for society."* 🚀
+
+*"다양한 분야에 이로운 영향을 줄 수 있는 AI 엔지니어가 되고 싶습니다."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sau04076&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
