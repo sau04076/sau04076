@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 
 *"LLM과 RAG, 멀티모달을 연구하고 현재는 의료 IT 스타트업에서 의료경영 관련 자동화 프로그램 개발 및 디지털 컨설팅을 위한 업무를 진행하고 있습니다."*
 
-* 〃 *
+ 〃 
 
 *"I aspire to become an AI engineer who can make a beneficial impact across diverse fields, leveraging technology to create meaningful solutions for society."* 🚀
 
