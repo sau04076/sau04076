@@ -6,9 +6,12 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 - **M.S.** in Statistics & Data Science | University of Seoul (2023.03 ~ 2025.02)
 - **B.S.** in Applied Software Engineering | Dong-eui University (2016.03 ~ 2022.02)
 
-## 💼 Professional Experience
+## 💼 Work Experience
 - **AI Engineer** at Ian Corp. (2025.02 ~ Present)
 - **Software Developer** at ECOCNA (2021.09 ~ 2022.11)
+
+## 📝 Publications
+Handling Ambiguous Queries Through Query Decomposition in a RAG Setting - CKAIA 2024
 
 ## 🔬 Research Interests
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
@@ -49,3 +52,9 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sau04076)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sau04076@naver.com)
+
+<div align="center">
+"I aspire to become an AI engineer who can make a beneficial impact across diverse fields, leveraging technology to create meaningful solutions for society." 🚀
+"다양한 분야에 이로운 영향을 줄 수 있는 AI 엔지니어가 되고 싶습니다."
+(https://komarev.com/ghpvc/?username=sau04076&color=blueviolet&style=flat-square&label=Profile+Views)
+</div>
