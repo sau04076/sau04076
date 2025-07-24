@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Mun Su Kim
-
 Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-edge technologies and data-driven solutions.
 
 ## 🎓 Education
@@ -37,6 +36,17 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+## 💾 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🧰 Development Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 ## ⚡ Hardware & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
@@ -44,9 +54,7 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 <div align="center">
   
 ![sau04076's GitHub stats](https://github-readme-stats.vercel.app/api?username=sau04076&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sau04076&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
 </div>
 
 ## 📫 Let's Connect!
@@ -59,5 +67,4 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 *"I aspire to become an AI engineer who can make a beneficial impact across diverse fields, leveraging technology to create meaningful solutions for society."* 🚀
 
 *"다양한 분야에 이로운 영향을 줄 수 있는 AI 엔지니어가 되고 싶습니다."*
-
 </div>
