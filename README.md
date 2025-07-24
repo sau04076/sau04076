@@ -46,29 +46,6 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=sau04076&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  
-![sau04076's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sau04076&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
-</div>
-
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-<div align="center">
-  
-*"Bridging the gap between data and intelligence through AI innovation"* 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=sau04076&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sau04076)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sau04076@naver.com)
