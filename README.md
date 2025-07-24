@@ -63,7 +63,8 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 
 ---
 <div align="center">
-  
+*"I am researching LLM, RAG, and multi-modal technologies, and currently working on developing medical management automation programs and digital consulting at a healthcare IT startup."*
+
 *"I aspire to become an AI engineer who can make a beneficial impact across diverse fields, leveraging technology to create meaningful solutions for society."* 🚀
 
 *"다양한 분야에 이로운 영향을 줄 수 있는 AI 엔지니어가 되고 싶습니다."*
