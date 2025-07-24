@@ -74,6 +74,4 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 
 *"다양한 분야에 이로운 영향을 줄 수 있는 AI 엔지니어가 되고 싶습니다."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=sau04076&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
