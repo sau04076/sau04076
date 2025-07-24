@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sau04076
+# Hi there! 👋 I'm Mun Su Kim
 
 Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-edge technologies and data-driven solutions.
 
