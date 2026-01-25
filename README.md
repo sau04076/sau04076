@@ -57,13 +57,6 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 ## ⚡ Hardware & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats
-<div align="center">
-  
-![sau04076's GitHub stats](https://github-readme-stats.vercel.app/api?username=sau04076&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sau04076&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-</div>
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mun-su-kim-6aa247320/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sau04076@naver.com)
