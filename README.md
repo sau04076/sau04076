@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 - **B.S.** in Applied Software Engineering | Dong-eui University (2016.03 ~ 2022.02)
 
 ## 💼 Work Experience
-- **AI Engineer** at MegazoneCloud (2025.06 ~ )
+- **AI Engineer** at MegazoneCloud (2026.06 ~ )
 - **AI Engineer** at Ian Corp. (2025.02 ~ 2026.02)
 - **Software Developer** at ECOCNA (2021.09 ~ 2022.11)
 
