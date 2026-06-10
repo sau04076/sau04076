@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 - **B.S.** in Applied Software Engineering | Dong-eui University (2016.03 ~ 2022.02)
 
 ## 💼 Work Experience
-- **AI Engineer** at Ian Corp. (2025.02 ~ Present)
+- **AI Engineer** at MegazoneCloud (2025.06 ~ )
+- **AI Engineer** at Ian Corp. (2025.02 ~ 2026.02)
 - **Software Developer** at ECOCNA (2021.09 ~ 2022.11)
 
 ## 📝 Publications
@@ -60,17 +61,3 @@ Welcome to my GitHub profile! I'm an **AI Engineer** passionate about cutting-ed
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mun-su-kim-6aa247320/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sau04076@naver.com)
-
----
-<div align="center">
-  
-*"I am researching LLM, RAG, and multi-modal technologies, and currently working on developing medical management automation programs and digital consulting at a healthcare IT startup."*
-
-*"LLM과 RAG, 멀티모달을 연구하고 현재는 의료 IT 스타트업에서 의료경영 관련 자동화 프로그램 개발 및 디지털 컨설팅을 위한 업무를 진행하고 있습니다."*
-
- 〃 
-
-*"I aspire to become an AI engineer who can make a beneficial impact across diverse fields, leveraging technology to create meaningful solutions for society."* 🚀
-
-*"다양한 분야에 이로운 영향을 줄 수 있는 AI 엔지니어가 되고 싶습니다."*
-</div>
